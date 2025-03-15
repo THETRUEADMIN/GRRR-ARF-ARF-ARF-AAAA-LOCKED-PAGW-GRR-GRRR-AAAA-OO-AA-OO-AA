@@ -1,0 +1,208 @@
+{| class="article-table" cellspacing="0" style="width:100%;"
+! colspan="2" |Finishing extraction
+|-
+| colspan="2" |{{Chatbox|hex=#FCE54E|text=BRING ME ANOTHER!!! More machines... MORE!!}}
+|-
+| colspan="2" |{{Chatbox|hex=#FCE54E|text=Candy candy caNDY, CANDY FOR ALL!!!}}
+|-
+| colspan="2" |{{Chatbox|hex=#FCE54E|text=More machines for ME!!! ALL MINE!!!}}
+|-
+! colspan="2" |Descending to the next floor
+|-
+| colspan="2" |{{Chatbox|hex=#FCE54E|text=PHEW! Good thing my tail hasn't been TANGLED!}}
+|-
+| colspan="2" |{{Chatbox|hex=#FCE54E|text=Did I drop candy ANYWHERE in the elevator?}}
+|-
+| colspan="2" |{{Chatbox|hex=#FCE54E|text=AHAHAHAaaa... Thought of something funny!}}
+|-
+! colspan="2" |Interacting with Toons
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Astro]]
+|N/A
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Bobette]]
+|N/A
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Boxten]]
+|N/A
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Brightney]]
+|N/A
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Coal]]
+|N/A
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Connie]]
+|N/A
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Cosmo]]
+|N/A
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Finn]]
+|N/A
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Flutter]]
+|N/A
+|-
+| rowspan="6" style="text-align:center; width:15%" |[[Gigi]]
+|{{CI|Gigi|size=60}} {{Chatbox|hex=#E7636C|text=Yatta, where do you like… stash all your candy?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=In my SUPER SECRET candy stash of course!}}
+|-
+|{{CI|Gigi|size=60}} {{Chatbox|hex=#E7636C|text=Riiiight, but like… where is it?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=Oh! It’s just to the left of- WAIT JUst a moment.}}
+|-
+|{{CI|Gigi|size=60}} {{Chatbox|hex=#E7636C|text=…No really, go ahead.}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=I'm not falling for THAT ONE!!!!}}
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Ginger]]
+|N/A
+|-
+| rowspan="5" style="text-align:center; width:15%" |[[Glisten]]
+|{{CI|Glisten|size=60}} {{Chatbox|hex=#FEDCA4|text=So, you do a bunch of clown stuff for your little clown group?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=It's NOT a clown group! It's a circus troupe!}}
+|-
+|{{CI|Glisten|size=60}} {{Chatbox|hex=#FEDCA4|text=Right, well, aren't you all clowns?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=NOPE!! Looey kind is-! But otherwise I'm an acrobat, and Blot's a mime!}}
+|-
+|{{CI|Glisten|size=60}} {{Chatbox|hex=#FEDCA4|text=Oh, I guess that's not as bad as I thought. }}
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Goob]]
+|N/A
+|-
+| rowspan="5" style="text-align:center; width:15%" |[[Looey]]
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=Looey, my best buddy ever, LOOEY!!!}}
+|-
+|{{CI|Looey|size=60}} {{Chatbox|hex=#F3D555|text=Yeah Yatta?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=You're one of my BEST FRIENDS!!! -AND I ONLY HAVE TWO BEST FRIENDS!!!}}
+|-
+|{{CI|Looey|size=60}} {{Chatbox|hex=#F3D555|text=Hahaha- Yeah? Really?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=YUP! FOREVER AND EVER!!! I just gotta remind you!}}
+|-
+| rowspan="5" style="text-align:center; width:15%" |[[Looey]] (2)
+|{{CI|Looey|size=60}} {{Chatbox|hex=#F3D555|text=Oooh Yatta, you're doing so much better then me!}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=Looey, stop, you're doing PERFECT!!!}}
+|-
+|{{CI|Looey|size=60}} {{Chatbox|hex=#F3D555|text=Haha, Nooo, no, you're much better then me-}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=TAKE THE COMPLIMENT!!!}}
+|-
+|{{CI|Looey|size=60}} {{Chatbox|hex=#F3D555|text=OH! Right haha, right, taking compliments! Can do!}}
+|-
+| rowspan="6" style="text-align:center; width:15%" |[[Pebble]]
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=Hey Pebble, do YOU want some CANDY?}}
+|-
+|{{CI|Pebble|size=60}} {{Chatbox|hex=#808080|text=ARF! ARF!!}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=WAIT, didn't Dandy say you can't have ANY candy?}}
+|-
+|{{CI|Pebble|size=60}} {{Chatbox|hex=#808080|text=Grrr...}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=OK, ok. Maybe just ONE piece.}}
+|-
+|{{CI|Pebble|size=60}} {{Chatbox|hex=#808080|text=ARF!!}}
+|-
+| rowspan="6" style="text-align:center; width:15%" |[[Poppy]]
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=Ooooh! POPPY!}}
+|-
+|{{CI|Poppy|size=60}} {{Chatbox|hex=#B9F1F1|text=Hii!! What's up!}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=DO you know how to do.. A BACKFLIP?}}
+|-
+|{{CI|Poppy|size=60}} {{Chatbox|hex=#B9F1F1|text=Aw, no! But I wanna!!!}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=Meet me, outside of my room, MIDNIGHT SHARP.}}
+|-
+|{{CI|Poppy|size=60}} {{Chatbox|hex=#B9F1F1|text=Oh! OK!}}
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Razzle & Dazzle]]
+|N/A
+|-
+| rowspan="6" style="text-align:center; width:15%" |[[Rodger]]
+|{{CI|Rodger|size=60}} {{Chatbox|hex=#847161|text=Yatta! How are your friends doing?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=WHICH ONES???}}
+|-
+|{{CI|Rodger|size=60}} {{Chatbox|hex=#847161|text=The circus troupe you’re always seen with...?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=OH YEAH!! What about them.}}
+|-
+|{{CI|Rodger|size=60}} {{Chatbox|hex=#847161|text=Any odd ongoings with you lot?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=HAHAHAha... I’m not telling you.}}
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Rudie]]
+|N/A
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Scraps]]
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=MEOW MEOW MEOW!!!}}
+|-
+|{{CI|Scraps|size=60}} {{Chatbox|hex=#B3956F|text=Are you...making fun of me?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=Oh! NO! I love cats!}}
+|-
+|{{CI|Scraps|size=60}} {{Chatbox|hex=#B3956F|text=Well, I'm not really a cat, just sort of.. cat-like?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=YEAH! You're a craft! A PAPER CRAFT!!}}
+|-
+|{{CI|Scraps|size=60}} {{Chatbox|hex=#B3956F|text=Exactly!}}
+|-
+| rowspan="6" style="text-align:center; width:15%" |[[Shelly]]
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=SHELLY!}}
+|-
+|{{CI|Shelly|size=60}} {{Chatbox|hex=#B3956F|text=W-what??? Huh? -Me?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=Yes YOU! Tisha said you learned sewing?}}
+|-
+|{{CI|Shelly|size=60}} {{Chatbox|hex=#B3956F|text=Yeah... YEAH! Are you interested!?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=YEAH!! YEAH!! SHOW ME LATER!!}}
+|-
+|{{CI|Shelly|size=60}} {{Chatbox|hex=#B3956F|text=OH YEAH!! I mean like- of course! Perfect! Later!}}
+|-
+| rowspan="5" style="text-align:center; width:15%" |[[Shelly]] (2)
+|{{CI|Shelly|size=60}} {{Chatbox|hex=#B3956F|text=...So you do acrobatics Yatta?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=BACKFLIPS, FRONTFLIPS, SUPER COOL FLIPS!!!}}
+|-
+|{{CI|Shelly|size=60}} {{Chatbox|hex=#B3956F|text=Right.. you're like super agile then.}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=SOMETIMES, EVERY SO OFTEN- I travel through Gardenview's vent systems!}}
+|-
+|{{CI|Shelly|size=60}} {{Chatbox|hex=#B3956F|text=Oh.}}
+|-
+| rowspan="6" style="text-align:center; width:15%" |[[Shrimpo]]
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=HAHAHaha...I don't like you.}}
+|-
+|{{CI|Shrimpo|size=60}} {{Chatbox|hex=#B12B0C|text=I HATE YOU!!}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=HATE, is such a strong word!!}}
+|-
+|{{CI|Shrimpo|size=60}} {{Chatbox|hex=#B12B0C|text=ARE YOU QUESTIONING MY STRENGTH!?}}
+|-
+|{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=HAHahaha. I don't NEED to question it.}}
+|-
+|{{CI|Shrimpo|size=60}} {{Chatbox|hex=#B12B0C|text=...I HATE BEING CHALLENGED BY SOMEONE TALLER THAN ME!!!}}
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Sprout]]
+|N/A
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Teagan]]
+|N/A
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Tisha]]
+|N/A
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Toodles]]
+|N/A
+|-
+| rowspan="1" style="text-align:center; width:15%" |[[Vee]]
+|N/A
+|}
