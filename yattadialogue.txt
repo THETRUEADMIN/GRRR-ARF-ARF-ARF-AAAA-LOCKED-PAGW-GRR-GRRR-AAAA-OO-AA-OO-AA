@@ -152,7 +152,7 @@
 |-
 |{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=YEAH! You're a craft! A PAPER CRAFT!!}}
 |-
-|{{CI|Scraps|size=60}} {{Chatbox|hex=#B3956F|text=Exactly!}}
+|{{CI|Scraps|size=60}} {{Chatbox|hex=#B3956F|text=Yeah! Exactly!}}
 |-
 | rowspan="6" style="text-align:center; width:15%" |[[Shelly]]
 |{{CI|Yatta|size=60}} {{Chatbox|hex=#FCE54E|text=SHELLY!}}
